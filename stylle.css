@@ -1,0 +1,33 @@
+  .newNews {
+        height: 500px;
+        width: 400px;
+      }
+      .search {
+        display: flex;
+        justify-content: center;
+        padding: 85px 0px;
+      }
+      .search input {
+        width: 450px;
+        height: 50px;
+        padding-left: 15px;
+        font-size: large;
+        border-radius: 30px;
+      }
+      .search button {
+        translate: 10px 0px;
+        border-radius: 30px;
+        font-size: large;
+        width: 100px;
+        background-color: blue;
+        color: white;
+        border: none;
+      }
+      img {
+        height: 200px;
+        width: 400px;
+      }
+      .news {
+        display: flex;
+        justify-content: space-around;
+      }
